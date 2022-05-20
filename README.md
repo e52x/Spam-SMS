@@ -31,14 +31,3 @@
 
 
 
-
-
-
-
-
-•Jangam Lupa kunjungi FB Saya•
-
-
-
-
-• = https://www.facebook.com/profile.php?id=100081052423840

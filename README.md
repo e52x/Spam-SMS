@@ -4,26 +4,26 @@
 •Mantap Slurr•
 
 
-$ apt update $$ apt upgrade
+•apt update $$ apt upgrade
 
 
-$ apt install git
-
-
-
-$ apt install python
+•apt install git
 
 
 
-$ git clone https://github.com/e52x/Spam-SMS
+•apt install python
 
 
 
-$ cd Spam-SMS
+•git clone https://github.com/e52x/Spam-SMS
 
 
 
-$ python Spam-SMS.py
+•cd Spam-SMS
+
+
+
+•python Spam-SMS.py
 
 
 
@@ -41,4 +41,4 @@ $ python Spam-SMS.py
 
 
 
-= https://www.facebook.com/profile.php?id=100081052423840
+• = https://www.facebook.com/profile.php?id=100081052423840

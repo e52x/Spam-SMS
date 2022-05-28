@@ -23,7 +23,7 @@
 
 
 
-•python Spam-SMS.py
+•python SpamTri.py
 
 
 
